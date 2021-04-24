@@ -19,3 +19,27 @@ li {
 h1 {
   margin-bottom: 0;
 }
+
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
+
+.main-image {
+  margin-right: 10px;
+  height: 64px;
+  width: 64px;
+  margin-bottom: 30px;
+}
+
+.main-temp {
+  font-weight: 400;
+  line-height: 1;
+  font-size: 64px;
+}
+
+.units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
