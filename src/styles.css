@@ -47,3 +47,13 @@ h1 {
   font-size: 16px;
   top: -34px;
 }
+
+.active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+
+.active:hover {
+  text-decoration: underline;
+}
