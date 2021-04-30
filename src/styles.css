@@ -86,7 +86,7 @@ h1 {
 }
 
 .weather-forecast-temperatures {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .footer {
@@ -102,4 +102,11 @@ h1 {
 #search-button {
   background-color: #00adb5;
   border-color: #00adb5;
+}
+
+#forecast-box {
+  background-color: #00adb5;
+  border-radius: 10px;
+  color: black;
+  font-size: 16px;
 }
